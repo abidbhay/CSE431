@@ -1,4 +1,4 @@
-Youtube Video Link: 
+Youtube Video Link: https://youtu.be/AaPg2MhOUBw
 
 Chapter Link: https://web.stanford.edu/~jurafsky/slp3/19.pdf
 
