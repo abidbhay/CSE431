@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/pnqhxxgrgqnx
 
 Unlisted YouTube video:
-https://www.overleaf.com/read/ykqzwbmbxkhj
+https://youtu.be/-CUdMUARaD8
 
 Paper title:
 Time Series Forecasting using LSTM Networks - Predicting Individual Household Electric Power Consumption

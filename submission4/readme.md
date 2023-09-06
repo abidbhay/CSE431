@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64e4f94373b999e69275d906
 
 Unlisted YouTube video:
-https://www.overleaf.com/project/64e4f94373b999e69275d906
+https://youtu.be/-CUdMUARaD8
 
 Paper title:
 Text classification sentimental analysis using Neural Networks on Movie Reviews
