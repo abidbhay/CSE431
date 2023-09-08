@@ -1,6 +1,6 @@
 
 
-**CSE 431 submissions github repository**
+**CSE 431 submissions repository**
 
 Course: Natural Language Processing
 BRAC University, Mohakhali, Dhaka.
