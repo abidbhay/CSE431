@@ -13,6 +13,9 @@ https://www.edx.org/learn/natural-language-processing/the-national-university-of
 completed youtube video:
 Natural Language Processing - Tokenization (NLP Zero to Hero)
 https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
+Natural Language Processing (NLP) Tutorial with Python & NLTK (codecamp)
+https://www.youtube.com/watch?v=X2vAabgKiuM&t=1978s
+https://www.youtube.com/watch?v=M7SWr5xObkA
 
 completed book:
 https://www.amazon.com/NLP-Work-Essence-Excellence-Professionals/dp/1857885295
@@ -23,7 +26,7 @@ https://colab.research.google.com/drive/16a4-KJqVbSVVa_VzrULHD_9eMlZT9anN?usp=sh
 did openrefine learning
 https://youtu.be/cA6LseucYtI
 
-optional report (docs): 
+final report (docs): 
 https://docs.google.com/document/d/1XwGeNT6Wgz19CQG4qa3EIdLU6Dnd_Im-tOwk_Jgm4i4/edit?usp=sharing
 
 was active in slack:
