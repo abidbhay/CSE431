@@ -1,13 +1,12 @@
 
 
-**CSE 431 submissions repository**
+**submissions repository**
 
-Course: Natural Language Processing
-BRAC University, Mohakhali, Dhaka.
+Natural Language Processing
+
 
 Repository owner: Abid Hossain
-Student ID: 20301115
 
-Submissions semester: Summer 2023
+
 
 
